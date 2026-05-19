@@ -2,6 +2,14 @@
 
 Sistema integral de gestión empresarial: facturación, inventario, clientes, ventas y reportes financieros.
 
+## Screenshots
+
+> Próximamente — agrega capturas del sistema aquí.
+
+<!-- Reemplaza esta línea con tu imagen:
+![Dashboard](docs/screenshots/dashboard.png)
+-->
+
 ## Tecnologías
 
 - **Framework:** ASP.NET Core 8.0 (C#)
